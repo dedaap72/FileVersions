@@ -1,0 +1,7 @@
+
+OriginalFilename  : StyleTester.dll
+ProductName       : StyleTester
+FileVersion       : 5.0.0.25632
+FileVersionRaw    : 5.0.0.25632
+
+
