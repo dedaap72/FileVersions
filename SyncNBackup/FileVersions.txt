@@ -1,0 +1,7 @@
+
+OriginalFilename  : SyncNBackup.dll
+ProductName       : SyncNBackup
+FileVersion       : 8.0.0.9275
+FileVersionRaw    : 8.0.0.9275
+
+
