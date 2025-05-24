@@ -1,35 +1,28 @@
 
 OriginalFilename  : PictureViewerObjects.dll
 ProductName       : PictureViewerObjects
-FileVersion       : 8.0.0.5290
-FileVersionRaw    : 8.0.0.5290
-
-
-
-OriginalFilename  : PictureScreenSaver.dll
-ProductName       : The Picture Screen Saver
-FileVersion       : 8.0.0.5290
-FileVersionRaw    : 8.0.0.5290
-
-
-
-OriginalFilename  : ThePictureViewer.dll
-ProductName       : PictureViewer
-FileVersion       : 8.0.0.5290
-FileVersionRaw    : 8.0.0.5290
-
-
-
-OriginalFilename  : PictureGames.dll
-ProductName       : Picture Games
-FileVersion       : 8.0.0.5290
-FileVersionRaw    : 8.0.0.5290
+FileVersion       : 8.1.0.12231
+FileVersionRaw    : 8.1.0.12231
 
 
 
 OriginalFilename  : PictRenameExif.dll
 ProductName       : Picture Rename and EXIF tool
-FileVersion       : 8.0.0.5290
-FileVersionRaw    : 8.0.0.5290
+FileVersion       : 8.1.0.12231
+FileVersionRaw    : 8.1.0.12231
+
+
+
+OriginalFilename  : PictureScreenSaver.dll
+ProductName       : The Picture Screen Saver
+FileVersion       : 8.1.0.12231
+FileVersionRaw    : 8.1.0.12231
+
+
+
+OriginalFilename  : ThePictureViewer.dll
+ProductName       : PictureViewer
+FileVersion       : 8.1.0.12231
+FileVersionRaw    : 8.1.0.12231
 
 
