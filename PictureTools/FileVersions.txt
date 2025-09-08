@@ -1,28 +1,28 @@
 
 OriginalFilename  : PictureViewerObjects.dll
 ProductName       : PictureViewerObjects
-FileVersion       : 8.1.0.14049
-FileVersionRaw    : 8.1.0.14049
+FileVersion       : 8.1.0.14795
+FileVersionRaw    : 8.1.0.14795
 
 
 
 OriginalFilename  : PictRenameExif.dll
 ProductName       : Picture Rename and EXIF tool
-FileVersion       : 8.1.0.14049
-FileVersionRaw    : 8.1.0.14049
+FileVersion       : 8.1.0.14795
+FileVersionRaw    : 8.1.0.14795
 
 
 
 OriginalFilename  : PictureScreenSaver.dll
 ProductName       : The Picture Screen Saver
-FileVersion       : 8.1.0.14049
-FileVersionRaw    : 8.1.0.14049
+FileVersion       : 8.1.0.14795
+FileVersionRaw    : 8.1.0.14795
 
 
 
 OriginalFilename  : ThePictureViewer.dll
 ProductName       : PictureViewer
-FileVersion       : 8.1.0.14049
-FileVersionRaw    : 8.1.0.14049
+FileVersion       : 8.1.0.14795
+FileVersionRaw    : 8.1.0.14795
 
 
