@@ -29,5 +29,5 @@ FileVersionRaw    : 8.1.0.14795
 
 OriginalFilename  : PictureToolsLauncher.dll
 ProductName       : PictureTools Launcher
-FileVersion       : 8.1.0.1
-FileVersionRaw    : 8.1.0.1
+FileVersion       : 8.0.0.1
+FileVersionRaw    : 8.0.0.1
